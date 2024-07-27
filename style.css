@@ -526,7 +526,7 @@ section {
 
   @media screen and (min-width: 320px) and (max-width:720px) {
     #canvas{
-        width: 100px;
+        width: 500px;
         height: 1000px;
     }
     #glass{
@@ -544,6 +544,5 @@ section {
       margin-left: 125px;
     }
     .letter{
-      margin-left: 125px;
-    }
+      margin: 0 auto;
   }
